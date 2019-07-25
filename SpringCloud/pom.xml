@@ -53,5 +53,9 @@
     	<module>product-view-service-feign</module>
     	<module>config-server</module>
     	<module>spring-cloud-starter-config</module>
+    	<module>hystrix-dashboard</module>
+    	<module>bine</module>
+    	<module>turbine</module>
+    	<module>zuul</module>
     </modules>
 </project>
